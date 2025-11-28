@@ -1,0 +1,5 @@
+{
+  "name": "Secure Login Template",
+  "description": "A modern, secure login template with real-time activity logging, rebuilt in React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
